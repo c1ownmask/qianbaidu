@@ -7,6 +7,7 @@
 <title>SpringMVCDemo</title>
 </head>
 <body>
+<h1>hello</h1>
 	WebContent下的index.jsp<br />
 	<a href = "index.action">跳转index页面</a><br />
 	<a href = "language.html">测试浏览器语言环境</a><br />
